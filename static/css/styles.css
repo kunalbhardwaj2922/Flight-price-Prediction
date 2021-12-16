@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+    text-align: center;
+}
+
+.navbar-header a {
+    margin-left: 50%;
+}
+
+.navbar navbar-inverse navbar-fixed-top {
+    background-color: #0a0601;
+}
+
+.head {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+}
